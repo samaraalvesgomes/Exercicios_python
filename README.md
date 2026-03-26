@@ -1,32 +1,42 @@
-# Exercícios Python
+# 🐍 Exercícios de Python
 
-## 📋 Descrição  
-Repositório com exercícios desenvolvidos durante a graduação e cursos complementares, com foco em praticar diferentes estruturas da linguagem **Python**.
+Este repositório é dedicado ao meu aprendizado de **Python**, com foco especial em lógica de programação e na transição para a **Análise de Dados**. Aqui documento a resolução de desafios, exercícios de algoritmos e o uso de bibliotecas essenciais para o mercado.
 
-## 🎯 Objetivos  
-- Consolidar lógica de programação;  
-- Praticar estruturas condicionais, loops, listas, dicionários e funções;  
-- Reforçar o uso da linguagem Python através de exercícios variados.
+---
 
-## 💻 Tecnologias Utilizadas  
-- **Python 3.x** como linguagem principal;  
-- IDE **Visual Studio Code** para desenvolvimento.
+### 🎯 Foco de Estudo
+* **Fundamentos:** Variáveis, tipos de dados, operadores e estruturas condicionais.
+* **Repetição:** Laços `for` e `while` aplicados ao tratamento de coleções.
+* **Estruturas de Dados:** Manipulação de Listas, Dicionários e Tuplas.
+* **Funções:** Criação de código modular e reutilizável.
+* **Bibliotecas de Dados:** Início dos estudos em `Pandas` e `Numpy` para manipulação de tabelas.
 
-## 📋 Como Rodar o Projeto  
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/samaraalvesgomes/Exercicios_python.git  
-2. Instale o **Python 3.x** em sua máquina, se ainda não tiver:  
-👉 [Download Python](https://www.python.org/downloads/)
+---
 
-3. Instale o **Visual Studio Code (VSCode)**, caso ainda não tenha:  
-👉 [Download VSCode](https://code.visualstudio.com/)
+### 🛠️ Tecnologias e Ferramentas
+<div style="display: inline-block">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
 
-4. No VSCode, instale as seguintes **extensões obrigatórias**:
-- **Python** – ID: `ms-python.python`
-- **Pylance** – ID: `ms-python.vscode-pylance`  
-Para isso, vá em **Extensões (Ctrl+Shift+X)** e pesquise pelo nome ou ID.
+---
 
-5. Abra o arquivo `.py` que deseja executar (não é necessário abrir o repositório inteiro).
+### 📖 Organização do Repositório
+* `📂 logica-basica`: Exercícios iniciais de sintaxe e operadores.
+* `📂 estruturas-dados`: Práticas com listas, dicionários e conjuntos.
+* `📂 desafios-algoritmos`: Resolução de problemas de lógica de programação.
+* `📂 analise-dados`: (Em breve) Scripts utilizando Pandas e arquivos CSV/Excel.
 
-6. Com o arquivo aberto, clique em **"Run"**, ou pressione `F5` para executar o código.
+---
+
+### 🚀 Roadmap de Evolução
+
+- [x] Sintaxe básica e tipos de dados
+- [x] Estruturas de controle (IF/ELSE/FOR/WHILE)
+- [x] Manipulação de arquivos JSON/CSV
+- [ ] Análise Exploratória de Dados - EDA (Em progresso 📊)
+- [ ] Visualização de Dados com Matplotlib (Em progresso 🎨)
+- [ ] Dashboards Avançados e Seaborn (Futuro 📅)
+      
